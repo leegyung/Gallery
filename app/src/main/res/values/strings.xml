@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="name">이름:</string>
+    <string name="date_txt">날짜:</string>
+    <string name="size_txt">크기:</string>
+</resources>
